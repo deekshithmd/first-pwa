@@ -1,4 +1,5 @@
 const container = document.querySelector(".container");
+
 const fruits = [
   { name: "apple", image: "images/apple.jpg" },
   { name: "pinapple", image: "images/pinapple.jpg" },
